@@ -1,0 +1,14 @@
+C:\dev\Tigrao\bin\Debug\net8.0\Tigrao.exe
+C:\dev\Tigrao\bin\Debug\net8.0\Tigrao.deps.json
+C:\dev\Tigrao\bin\Debug\net8.0\Tigrao.runtimeconfig.json
+C:\dev\Tigrao\bin\Debug\net8.0\Tigrao.dll
+C:\dev\Tigrao\bin\Debug\net8.0\Tigrao.pdb
+C:\dev\Tigrao\obj\Debug\net8.0\Tigrao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Tigrao\obj\Debug\net8.0\Tigrao.AssemblyInfoInputs.cache
+C:\dev\Tigrao\obj\Debug\net8.0\Tigrao.AssemblyInfo.cs
+C:\dev\Tigrao\obj\Debug\net8.0\Tigrao.csproj.CoreCompileInputs.cache
+C:\dev\Tigrao\obj\Debug\net8.0\Tigrao.dll
+C:\dev\Tigrao\obj\Debug\net8.0\refint\Tigrao.dll
+C:\dev\Tigrao\obj\Debug\net8.0\Tigrao.pdb
+C:\dev\Tigrao\obj\Debug\net8.0\Tigrao.genruntimeconfig.cache
+C:\dev\Tigrao\obj\Debug\net8.0\ref\Tigrao.dll
